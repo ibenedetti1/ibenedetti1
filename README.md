@@ -13,11 +13,11 @@
 
 A lo largo de mi trayecto como estudiante, he adquirido habilidades en relaciones interpersonales y en algunas tecnologías que me permiten dar vida a mis ideas. Aquí hay un vistazo rápido:
 
-- **Javascript**: Mi compañero en la web. He construido proyectos interactivos y dinámicos utilizando este lenguaje poderoso.
+- **Javascript**: Mi compañero en la web. He construido proyectos interactivos utilizando este lenguaje poderoso.
 
 - **NodeJS**: Sumergiéndome en el mundo del backend, he utilizado NodeJS para crear servidores rápidos y escalables.
 
-- **Nest**: ¡El framework de NodeJS que me tiene fascinado! Construyendo aplicaciones backend robustas y elegantes.
+- **Nest**: ¡El framework de NodeJS que me tiene fascinado! Ya ansío construir aplicaciones backend robustas y elegantes.
 
 - **AWS**: Aventurándome en la nube con Amazon Web Services (AWS) para desplegar y escalar mis aplicaciones.
 
