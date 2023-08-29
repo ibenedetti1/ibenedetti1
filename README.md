@@ -13,13 +13,12 @@
 
 A lo largo de mi trayecto como estudiante, he adquirido habilidades en relaciones interpersonales y en algunas tecnologías que me permiten dar vida a mis ideas. Aquí hay un vistazo rápido:
 
-- **Javascript**: Mi compañero en la web. He construido proyectos interactivos utilizando este lenguaje poderoso.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Node JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Nest JS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-- **NodeJS**: Sumergiéndome en el mundo del backend, he utilizado NodeJS para crear servidores rápidos y escalables.
-
-- **Nest**: ¡El framework de NodeJS que me tiene fascinado! Ya ansío construir aplicaciones backend robustas y elegantes.
-
-- **AWS**: Aventurándome en la nube con Amazon Web Services (AWS) para desplegar y escalar mis aplicaciones.
 
 ## Proyectos Destacados 🚀
 🔋 Próximamente comenzaré a compartir mis primeros proyectos.
