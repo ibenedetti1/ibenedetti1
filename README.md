@@ -1,7 +1,5 @@
 # ¡Bienvenidos a mi Rincón de Código! 👋
 
-¡Hola a todos! Soy Itallo, un apasionado estudiante de Analista Programador en constante búsqueda de emocionantes desafíos en el mundo de la programación. En este rincón quiero compartir contigo un vistazo de mi viaje en el mundo de la codificación y las habilidades que he estado desarrollando.
-
 ## Acerca de mí 👨‍💻
 - 🌟 Desarrollador NodeJS Jr.
 - 📚 Estudiante de Analista Programador.
