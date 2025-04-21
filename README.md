@@ -2,7 +2,7 @@
 
 ## Acerca de mí 👨‍💻
 - 🌟 Desarrollador NodeJS, GO, Java.
-- 📚 Estudiante de Analista Programador.
+- 📚 Analista Programador.
 - 🦴 Kinesiólogo
 - 🌟 Disfruto de la resolución de problemas y de la búsqueda de soluciones.
 - 🚀 Siempre abierto a nuevas oportunidades para aprender y crecer.
