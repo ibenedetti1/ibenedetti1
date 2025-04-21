@@ -1,7 +1,7 @@
 # ¡Bienvenidos a mi Rincón de Código! 👋
 
 ## Acerca de mí 👨‍💻
-- 🌟 Desarrollador NodeJS Jr.
+- 🌟 Desarrollador NodeJS, GO, Java.
 - 📚 Estudiante de Analista Programador.
 - 🦴 Kinesiólogo
 - 🌟 Disfruto de la resolución de problemas y de la búsqueda de soluciones.
